@@ -11,7 +11,7 @@ Wait till the next __update__ to:
 - Analize subject images to test the anomalities on the prediction
 - GUI (Possibly PyQt5)
 
-## __DEPENDENCIES__❗
+## **DEPENDENCIES**❗
 ### Python version
 Python 3.11.9
 ### Libraries 📚
