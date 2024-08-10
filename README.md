@@ -4,7 +4,7 @@
 <p> This project focus onto the research of matricial manipulation to get the 'average' of strategical images and take conlution out of them. I expect ending it as a way to generalize different pattern prediction methods onto this code...</p>
 
 ## __Current build uses__ 🛠️
-<p>For now, the class {```JPGFile```} can be used to
+<p>For now, the class </p>p```JPGFile```<p> can be used to
 - Convert images into matrices from given resolution (in all images)
 - Convert matrices into images
 Wait till the next update to:
