@@ -1,7 +1,15 @@
 # Managing matrices onto pattern recognition algorithms
 
-## What's this about?
-<p> This project focus onto the research of matricial manipulation to get the 'average' of strategical images and take conlution out of them. I expect ending it as a way to generalize different pattern prediction methods onto this code, so keep up...</p>
+## What's this about? ℹ️
+<p> This project focus onto the research of matricial manipulation to get the 'average' of strategical images and take conlution out of them. I expect ending it as a way to generalize different pattern prediction methods onto this code...</p>
+
+## Current build uses 🛠️
+<p>For now, the class ```JPGFile``` can be used to
+- Convert images into matrices from given resolution (in all images)
+- Convert matrices into images
+Wait till the next update to:
+- Analize subject images to test the anomalities on the prediction
+- GUI (Possibly PyQt5)</p>
 
 ## DEPENDENCIES ❗
 ### Python version
