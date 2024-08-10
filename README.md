@@ -17,3 +17,5 @@ Python 3.11.9
 ### Libraries 📚
 <p>numpy --> 1.26.4
 pillow --> 10.3.0</p>
+
+![mueujeej](/assets/images/tux.png)
