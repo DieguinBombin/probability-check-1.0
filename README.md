@@ -1,6 +1,6 @@
 # Managing matrices onto pattern recognition algorithms
 
-## What's this about? ℹ️
+## What's this about ❓
 <p> This project focus onto the research of matricial manipulation to get the 'average' of strategical images and take conlution out of them. I expect ending it as a way to generalize different pattern prediction methods onto this code...</p>
 
 ## Current build uses 🛠️
