@@ -1,4 +1,4 @@
-# Predictive methods to detect anomalities on images
+# Predictive methods to detect anomalities on images 🥴
 
 ## __What's this about__ ❓
 <p> This project focus onto the research of matricial manipulation to get the 'average' of strategical images and develop conclutions out of those processes. I expect to modify it as a way to generalize different pattern prediction methods onto this code...</p>
