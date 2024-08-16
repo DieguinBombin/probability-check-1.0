@@ -5,7 +5,7 @@
 
 ## __Current build utilities__ 🛠️
 For now, we have **2 classes**, those are ```MatrixMeanList``` and ```JPGFile```, these two defined in the file ```jpg_n_classes.py```
-### Theorical uses of the classes 🤤🤤
+### Theorical usses of the classes 🤤🤤
 - Get the predictive mean of given group of files, and renderize it as a **hotspot of anomalities visually**
 - Get an array of type ```np.array``` or a **list of list** from the classes, but the last one isn't optimized yet. 
 
