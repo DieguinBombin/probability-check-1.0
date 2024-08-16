@@ -4,7 +4,7 @@
 <p> This project focus onto the research of matricial manipulation to get the 'average' of strategical images and develop conclutions out of those processes. I expect to modify it as a way to generalize different pattern prediction methods onto this code...</p>
 
 ## __Current build utilities__ 🛠️
-For now, we have ```2 classes```, those are ```MatrixMeanList``` and ```JPGFile```, these two defined in the file ```jpg_n_classes.py```
+For now, we have **2 classes**, those are ```MatrixMeanList``` and ```JPGFile```, these two defined in the file ```jpg_n_classes.py```
 ### Theorical uses of the files 🤤🤤
 - Get the predictive mean of given group of files, and renderize it as a **hotspot of anomalities visually**
 - Get an array of type ```np.array``` or a **list of list** from the classes, but the last one isn't optimized yet. 
